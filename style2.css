@@ -14,8 +14,8 @@
         background-color: aquamarine;
     }
     90% {
-        height: 100px;
-        width: 100px;
+        height: 200px;
+        width: 200px;
         background-color: rgb(10, 49, 36);
     }
     100% {
