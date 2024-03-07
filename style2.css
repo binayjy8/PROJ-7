@@ -2,7 +2,7 @@
     animation-name: playCard;
     animation-duration: 5s;
     animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 3;
     animation-direction: normal;
     animation-delay: 2s;
 }
