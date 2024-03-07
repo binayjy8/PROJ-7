@@ -4,4 +4,23 @@
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
     animation-direction: normal;
+    animation-delay: 2s;
+}
+
+@keyframes playCard {
+    0% {
+        height: 100px;
+        width: 100px;
+        background-color: aquamarine;
+    }
+    90% {
+        height: 100px;
+        width: 100px;
+        background-color: rgb(10, 49, 36);
+    }
+    100% {
+        height: 300px;
+        width: 400px;
+        background-color: brown;
+    }
 }
