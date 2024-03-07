@@ -1,6 +1,6 @@
 .ani {
     animation-name: playCard;
-    animation-duration: 2s;
+    animation-duration: 5s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
     animation-direction: normal;
